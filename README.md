@@ -1,6 +1,6 @@
 # Personal Professional Homepage
 
-This is my personal professional homepage hosted using GitHub Pages.
+This is the professional homepage of Chengjian Yao hosted using GitHub Pages.
 
 ## Website
 
