@@ -6,7 +6,7 @@ This is the professional homepage of Chengjian Yao hosted using GitHub Pages.
 
 Visit the site at:
 
-https://yaogeometry.github.io
+[https://Yao-geometry.github.io](https://yao-geometry.github.io/)
 
 ## Sections
 
